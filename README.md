@@ -24,8 +24,8 @@ This project demonstrates a simple carousel implementation using **Bootstrap 5.3
 2. Open the index.html file in your preferred web browser.
 
 3. Ensure the required Bootstrap and JavaScript CDN links are included in the <head> section:
-## <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-## <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 4. Place your images in the assets/images/ folder or update the src attributes in the <img> tags with the appropriate paths.
 
 ## Customization
